@@ -7,6 +7,11 @@ h1 {
   font-family: 'PT Sans', sans-serif;
 }
 
+i {
+  font-style: italic;
+}
+
 ol li {
   color: #8f2440;
+  font-family: 'PT Sans', sans-serif;
 }
