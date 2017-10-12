@@ -4,4 +4,9 @@ html {
 
 h1 {
   color: #3f1622;
+  font-family: 'PT Sans', sans-serif;
+}
+
+ol li {
+  color: #8f2440;
 }
