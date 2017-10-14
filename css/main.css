@@ -15,3 +15,7 @@ ol li {
   color: #8f2440;
   font-family: 'PT Sans', sans-serif;
 }
+
+figure {
+  font-family: 'PT Serif', serif;
+}
