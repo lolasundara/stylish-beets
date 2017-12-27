@@ -52,13 +52,13 @@ img {
 }
 
 figcaption {
-  font-family: PT, serif;
+  font-family: "PT serif";
   font-style: italic;
   text-align: center;
 }
 
 p {
-  font-family: PT, serif;
+  font-family: "PT serif";
   margin-left: .5em;
 }
 
@@ -78,7 +78,7 @@ p:nth-child(4) {
 
 blockquote {
   font-size: 1.5rem;
-  font-family: PT, serif;
+  font-family: "PT serif";
   font-style: italic;
   margin-left: 2em;
   line-height: 1.5;
@@ -87,7 +87,7 @@ blockquote {
 
 .person {
   font-size: .8rem;
-  font-family: PT, serif;
+  font-family: "PT serif";
   margin-left: 3.5em;
 }
 
@@ -100,7 +100,7 @@ h2 {
 ol:nth-child(2) {
   list-style-type: lower-greek;
   color: #000;
-  font-family: PT, serif;
+  font-family: "PT serif";
   font-weight: normal;
 }
 
