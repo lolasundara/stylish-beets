@@ -1,5 +1,5 @@
 html {
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   background-color: #c9b5ab;
 }
 
@@ -29,12 +29,23 @@ ol {
   margin-bottom: 1.15em;
 }
 
+a {
+  color: #8f2440;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #3f1622;
+}
+
 figure {
   margin: 0;
+  width: 85%;
 }
 
 img {
-  width: 85%;
+  width: 100%;
   margin-left: 3em;
   margin-right: 2em;
   margin-bottom: 0;
