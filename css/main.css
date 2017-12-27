@@ -1,5 +1,5 @@
 html {
-  font-family: PT Sans, sans-serif;
+  font-family: 'PT Sans', sans-serif;
   background-color: #c9b5ab;
 }
 
@@ -63,4 +63,36 @@ p:nth-child(3) {
 
 p:nth-child(4) {
   line-height: 1.5;
+}
+
+blockquote {
+  font-size: 1.5rem;
+  font-family: PT, serif;
+  font-style: italic;
+  margin-left: 2em;
+  line-height: 1.5;
+  margin-bottom: .75em;
+}
+
+.person {
+  font-size: .8rem;
+  font-family: PT, serif;
+  margin-left: 3.5em;
+}
+
+h2 {
+  margin-top: 1em;
+  margin-left: .5em;
+  color: #3f1622;
+}
+
+ol:nth-child(2) {
+  list-style-type: lower-greek;
+  color: #000;
+  font-family: PT, serif;
+  font-weight: normal;
+}
+
+ul {
+  text-decoration: none;
 }
